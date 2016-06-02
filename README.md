@@ -3,6 +3,8 @@
 Tired of all those misspelled 'Magento's?
 This Chrome plugin will fix that.
 
+And now also on the [Chrome Store](http://https://chrome.google.com/webstore/detail/magento-spell-checker/gmfgdkepomdmcngocbdenmkelhkkalgb)
+
 Going from this
 
 ![All misspelled](http://i.imgur.com/n5C5AVc.png "All misspelled")
