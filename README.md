@@ -26,6 +26,7 @@ If you need more corrections just open an issue.
 1. go to Settings in chrome (3 dots button on the right)
 2. More Tools > Extensions
 3. Download the .crx file and drag it into the extensions screen
+4. Verify the installation by visiting http://magento.stackexchange.com/search?q=magneto
 
 ## Credits
 
